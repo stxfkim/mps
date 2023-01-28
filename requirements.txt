@@ -1,4 +1,1 @@
 openpyxl
-pandas
-datetime
-pathlib
